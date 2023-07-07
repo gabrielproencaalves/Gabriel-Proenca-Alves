@@ -3,8 +3,6 @@
 <br>
 📝 Student of the SEED Systems Analysis and Development technical course;
 <br>
-I'm currently learning ANSI C, and beyond that, I plan to learn and master C++, Lisp, and Lua.
-<br>
 
 > _Free as in freedom._
 
