@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🎓 CC50 Monitor;
+🎓 ex-CC50 Monitor;
 <br>
 📝 Student of the SEED Systems Analysis and Development technical course;
 <br>
